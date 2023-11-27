@@ -5,7 +5,7 @@ My passion at the moment is the world of data, data recopilation, analysis. proc
 ```javascript
 const Yanito = {
   nickname: 'Yanito',
-  pronouns: 'He/Him'
+  pronouns: 'He/Him',
   age: 20,
   country: 'MX',
   unpopular_opinion: 'PHP ain't bad'
