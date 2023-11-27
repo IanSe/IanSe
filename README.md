@@ -1,4 +1,4 @@
-###C:
+### C:
 Hello there!, my name is Ian, *I'm a developer located in Mexico city and a **data science student at [ESCOM](https://www.escom.ipn.mx/)***.      
 My passion at the moment is the world of data, data recopilation, analysis. processing and visualization, i'm constantly researching and trying to came up with new projects and ideas to contribute to the art of data.
 
