@@ -8,7 +8,7 @@ const Yanito = {
   pronouns: 'He/Him',
   age: 20,
   country: 'MX',
-  unpopular_opinion: 'PHP ain't bad'
+  unpopular_opinion: 'PHP aint bad'
 }
 ```
 
